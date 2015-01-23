@@ -1,7 +1,7 @@
 ﻿using System;
 using Newtonsoft.Json.Linq;
 
-namespace Peco.FluentParser.JTokenParsers
+namespace Peco.FluentJTokenParser
 {
     public class JTokenGuidValue : JTokenValue<Guid>
     {

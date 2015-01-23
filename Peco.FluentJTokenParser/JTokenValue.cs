@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json.Linq;
 
-namespace Peco.FluentParser.JTokenParsers
+namespace Peco.FluentJTokenParser
 {
     public delegate bool TryParse<T>(string s, out T value);
 

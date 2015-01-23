@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peco.FluentParser.JTokenParsers", "Peco.FluentParser.JTokenParsers.csproj", "{2F9B5137-6D67-492B-A776-494F53BB70BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peco.FluentJTokenParser", "Peco.FluentJTokenParser.csproj", "{2F9B5137-6D67-492B-A776-494F53BB70BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peco.FluentParser.JTokenParsers.Tests", "..\Peco.FluentParser.JTokenParsers.Tests\Peco.FluentParser.JTokenParsers.Tests.csproj", "{498BB772-14CD-44AE-9A5D-C61B338906BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peco.FluentJTokenParser.Tests", "..\Peco.FluentJTokenParser.Tests\Peco.FluentJTokenParser.Tests.csproj", "{498BB772-14CD-44AE-9A5D-C61B338906BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

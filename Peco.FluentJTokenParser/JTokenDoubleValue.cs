@@ -1,7 +1,7 @@
 using System.Globalization;
 using Newtonsoft.Json.Linq;
 
-namespace Peco.FluentParser.JTokenParsers
+namespace Peco.FluentJTokenParser
 {
     public class JTokenDoubleValue : JTokenValue<double>
     {

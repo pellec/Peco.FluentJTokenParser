@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json.Linq;
 
-namespace Peco.FluentParser.JTokenParsers
+namespace Peco.FluentJTokenParser
 {
     public class JTokenIntValue : JTokenValue<int>
     {

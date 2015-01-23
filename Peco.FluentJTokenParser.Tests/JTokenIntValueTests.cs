@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json.Linq;
 using NUnit.Framework;
 
-namespace Peco.FluentParser.JTokenParsers.Tests
+namespace Peco.FluentJTokenParser.Tests
 {
     [TestFixture]
     public class JTokenIntValueTests

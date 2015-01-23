@@ -7,8 +7,8 @@
     <ProjectGuid>{2F9B5137-6D67-492B-A776-494F53BB70BE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Peco.FluentParser.JTokenParsers</RootNamespace>
-    <AssemblyName>Peco.FluentParser.JTokenParsers</AssemblyName>
+    <RootNamespace>Peco.FluentJTokenParser</RootNamespace>
+    <AssemblyName>Peco.FluentJTokenParser</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
